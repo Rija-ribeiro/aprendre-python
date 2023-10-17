@@ -114,4 +114,4 @@ del(nom_de_variable[4:])
 print(nom_de_variable)
 #>>> ("rat","rat","chaton",4,)
 
-### LES CONDITIONS #####################################################################################################
+#ÉCRIS MOI QUAND TU AS FINIS ET SI TU AS UN PROBLÈME? TOUTES LES INFOS SONT DANS README.md
